@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: a-custom-entry.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: July 28, 2022 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2022 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>WHAT IS THE CAPITAL OF JAPAN</pattern>
+<template>Tokyo</template>
+</category>
+<category><pattern>WHAT IS SUSHI</pattern>
+<template>Sushi is a Japanese dish of prepared vinegar rice, usually with some sugar and salt, accompanied by a variety of ingredients, such as seafood, often raw, and vegetables.</template>
+</category>
+<category><pattern>WHO IS BORIS</pattern>
+<template>He is a clown who lost his place as a PM in the UK</template>
+</category>
+</aiml>
